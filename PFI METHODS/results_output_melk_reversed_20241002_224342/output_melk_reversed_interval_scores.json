@@ -1,0 +1,41 @@
+[
+  {
+    "target": "Boerenkaas",
+    "real_interval_score": -0.33075254497320766,
+    "real_point_score": 6.534772637261432,
+    "shuffle_interval_scores": {
+      "Boter": -0.33651759139869525,
+      "Melk, gemiddeld vet": -0.3324419896239821
+    },
+    "shuffle_point_scores": {
+      "Boter": 6.572519943546571,
+      "Melk, gemiddeld vet": 6.501177583740479
+    }
+  },
+  {
+    "target": "Boter",
+    "real_interval_score": 0.003174505130104373,
+    "real_point_score": 1.1205401135699078,
+    "shuffle_interval_scores": {
+      "Boerenkaas": 0.01699504137039183,
+      "Melk, gemiddeld vet": -0.022907113873440306
+    },
+    "shuffle_point_scores": {
+      "Boerenkaas": 1.1286463517445426,
+      "Melk, gemiddeld vet": 1.1362968680559475
+    }
+  },
+  {
+    "target": "Melk, gemiddeld vet",
+    "real_interval_score": 0.20744131046792735,
+    "real_point_score": 0.2543895448907104,
+    "shuffle_interval_scores": {
+      "Boerenkaas": 0.17398700848869653,
+      "Boter": 0.1286856981464054
+    },
+    "shuffle_point_scores": {
+      "Boerenkaas": 0.2594978014549333,
+      "Boter": 0.31063053911678695
+    }
+  }
+]
